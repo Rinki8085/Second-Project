@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "city": "Bengaluru",
+    },
+    {
+        "id":2,
+        "city":"Goa",
+    },
+    {
+        "id":3,
+        "city":"Lucknow",
+    },
+    {
+        "id":4,
+        "city":"Manali",
+    },
+    {
+        "id":5,
+        "city":"Jaipur",
+    },
+    {
+        "id":6,
+        "city":"Dubai",
+    },
+    {
+        "id":7,
+        "city":"Singapore",
+
+    },
+    {
+        "id":8,
+        "city":"Ahemdabad",
+    },
+    {
+        "id":9,
+        "city":"Kanyakumari",
+    },
+    {
+        "id":10,
+        "city":"Bodhgaya",
+    },
+]
