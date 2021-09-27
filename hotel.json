@@ -8,7 +8,7 @@
         "price":2930,
         "image":"https://i.ibb.co/71pPxp8/Welcome_Hotel_By_TC_Hotels.webp",
         "address":"Richmond Road,(1.6 km from Bridge Road) ",
-        "phone":0343981781,
+        "phone":"0343981781"
     },
     {
         "id":2,
@@ -19,7 +19,7 @@
         "price":5986,
         "image":"https://i.ibb.co/dDGRBdM/ITC_Gardenia_A_Luxury_Collection_Hotel.webp",
         "address":"Ashok Nagar,(3.8 km from Kempegowda Bus Station",
-        "phone":033920320,
+        "phone":"033920320"
     },
     {
         "id":3,
@@ -29,8 +29,8 @@
         "rating":4.6,
         "price":986,
         "image":"https://i.ibb.co/Nm6y2T3/The_Zinc_by_the_Fern_Whitefield_Bengalure.webp",
-        "address":" Whitefield,Bengalur",
-        "phone":039289320,
+        "address":" Whitefield, Bengalur",
+        "phone":"0339201922"
     },
     {
         "id":4,
@@ -40,8 +40,8 @@
         "rating":5,
         "price":7250,
         "image":"https://i.ibb.co/NnFMN42/Leela_Palace_Bangolre.webp",
-        "address":"HAL old airport road,600 m from Leela Palace Bus Stop",
-        "phone":0343632320,
+        "address":"HAL old airport road, 600 m from Leela Palace Bus Stop",
+        "phone":"033923094"
     },
     {
         "id":5,
@@ -52,7 +52,7 @@
         "price":2820,
         "image":"https://i.ibb.co/T8NchNc/Radission_Blu_Atria_Bangaluru.webp",
         "address":"Palace road, 2.2 km from Kemegowda Bus station",
-        "phone":026767870,
+        "phone":"036758320"
     },
     {
         "id":6,
@@ -63,7 +63,7 @@
         "price":4990,
         "image":"https://i.ibb.co/Kb3hHM7/Beleza_by_the_beech.webp",
         "address":"Betalbati Beach",
-        "phone":078907920,
+        "phone":"033340980"
     },
     {
         "id":7,
@@ -74,7 +74,7 @@
         "price":12200,
         "image":"https://i.ibb.co/3CbRpCS/Taj_Exotica_Resort_&_Spa_Salcete_Goa.webp",
         "address":"Benaulim",
-        "phone":034553220,
+        "phone":"0987340320"
     },
     {
         "id":8,
@@ -85,7 +85,7 @@
         "price":4500,
         "image":"https://i.ibb.co/n1rHqMr/Vivanta_Goa_panaji.webp",
         "address":"panjim",
-        "phone":033676990,
+        "phone":"033876520"
     },
     {
         "id":9,
@@ -96,7 +96,7 @@
         "price":8500,
         "image":"https://i.ibb.co/hRf4dpP/Taj_Fort_Aguada_Resort_&_spa_candolim.webp",
         "address":"Candolim , 240 m from Sinquerium Beach",
-        "phone":039870320,
+        "phone":"033756420"
     },
     {
         "id":10,
@@ -107,7 +107,7 @@
         "price":10250,
         "image":"https://i.ibb.co/VQP0KNw/Grand_Hyatt_Goa.webp",
         "address":"North Goa , 22.2 km from Goa Airport",
-        "phone":034233320,
+        "phone":"033939840"
     },
     {
         "id":11,
@@ -118,7 +118,7 @@
         "price":3999,
         "image":"https://i.ibb.co/F0QXQyb/Novotel_Lucknow_Gomti_Nagar.webp",
         "address":"Gomti Nagar| 670 m from Sahara Hospital",
-        "phone":033344442,
+        "phone":"032393320"
     },
     {
         "id":12,
@@ -129,7 +129,7 @@
         "price":5786,
         "image":"https://i.ibb.co/10hRCqH/Hyatt_Regency_Lucknow.webp",
         "address":"Gomti Nagar|670 m from Lohia Hospital",
-        "phone":09870320,
+        "phone":"033234320"
     },
     {
         "id":13,
@@ -140,7 +140,7 @@
         "price":2088,
         "image":"https://i.ibb.co/5RN3fp9/Taj_Mahal_Lucknow.webp",
         "address":"Gomti Nagar",
-        "phone":033920320,
+        "phone":"035423320"
     },
     {
         "id":14,
@@ -151,7 +151,7 @@
         "price":1690,
         "image":"https://i.ibb.co/5GgMtmN/The_Piccadily.webp",
         "address":"LDA Colony|2.8 km from ISBT",
-        "phone":03398987
+        "phone":"033934560"
     },
     {
         "id":15,
@@ -162,7 +162,7 @@
         "price":2456,
         "image":"https://i.ibb.co/nDB8rSX/Hotel_D'corbiz.webp",
         "address":"Gomti Nagar| 77 m from Dr.Ram Manohar Lohia Combined Hospital",
-        "phone":033920320,
+        "phone":"033945630"
     },
     {
         "id":16,
@@ -173,7 +173,7 @@
         "price":2786,
         "image":"https://i.ibb.co/V9b02G3/Hotel_Highland.webp",
         "address":"Log Hots Area | 300 m from Hotel river bank & restaurant",
-        "phone":035654320,
+        "phone":"033234220"
     },
     {
         "id":17,
@@ -184,7 +184,7 @@
         "price":1000,
         "image":"https://i.ibb.co/thDMcPT/OYO_27602_Hotel_Green_View.webp",
         "address":"Siyal | 1.3 km from Manali mali Market",
-        "phone":033545420,
+        "phone":"033098720"
     },
     {
         "id":18,
@@ -195,7 +195,7 @@
         "price":1297,
         "image":"https://i.ibb.co/g4g5zdG/Hotel_himgiri.webp",
         "address":"Near Mall Road|990 m from Manali Bus Stop",
-        "phone":0339645630,
+        "phone":"030987320"
     },
     {
         "id":19,
@@ -206,7 +206,7 @@
         "price":9086,
         "image":"https://i.ibb.co/TKRDFZk/Snow_Flakes_Resorts_&_Spa.webp",
         "address":"Snow | 5.9 km from city center 4.8 km from Manail Mall Market",
-        "phone":0367676560,
+        "phone":"094872320"
     },
     {
         "id":20,
@@ -217,7 +217,7 @@
         "price":8096,
         "image":"https://i.ibb.co/NjsMxRQ/The_Tranquill_Inn.webp",
         "address":"Shnag Road | 4.3 km from city center 3.8 km from Manail Mall Market",
-        "phone":0367564620,
+        "phone":"030900320"
     },
     {
         "id":21,
@@ -228,7 +228,7 @@
         "price":4080,
         "image":"https://i.ibb.co/56rxZGw/Holiday_Inn_Jaipur_City_Center.webp",
         "address":"Shivaji Nagar|650 m from jyoti Nagar Bus Stop",
-        "phone":0367564620,
+        "phone":"037893720"
     },
     {
         "id":22,
@@ -239,7 +239,7 @@
         "price":4080,
         "image":"https://i.ibb.co/mD9XGgZ/ITC_Rajputana_A_Luxury_Collection_Hotel.jpg",
         "address":"Neaf Jaipur Train Station| 530 m from jaipur Railway station",
-        "phone":0367564620,
+        "phone":"034567320"
     },
     {
         "id":23,
@@ -250,7 +250,7 @@
         "price":4000,
         "image":"https://i.ibb.co/3MBwtRv/Trident_Jaipur.jpg",
         "address":"Parasarampuri| 67 m from Jai Mahal Bus Stop",
-        "phone":03672123620,
+        "phone":"039360320"
     },
     {
         "id":24,
@@ -261,7 +261,7 @@
         "price":3000,
         "image":"https://i.ibb.co/HzMX9RX/Radission_Jaipur_City_Center.jpg",
         "address":"Gopabari|740 km from Jaipur Railway Station",
-        "phone":0367564620,
+        "phone":"039643220"
     },
     {
         "id":25,
@@ -272,7 +272,7 @@
         "price":2400,
         "image":"https://i.ibb.co/WphbF2M/Hotel_Royal_Orchid_Jaipur.jpg",
         "address":"Tonk road|840 km from Bus stop Durgapura",
-        "phone":038974620,
+        "phone":"038735320"
     },
     {
         "id":26,
@@ -283,7 +283,7 @@
         "price":2000,
         "image":"https://i.ibb.co/n7VfPBF/Movenpick_Hotel_&_Apartments_Bur_Dubai.webp",
         "address":"Bur Dubai| 240 m from Lancy Plazza",
-        "phone":036878620,
+        "phone":"038360320"
     },
     {
         "id":27,
@@ -294,7 +294,7 @@
         "price":1640,
         "image":"https://i.ibb.co/1G27NBb/Royal_Continental_hotel.webp",
         "address":"Deira|7.3 km from Duabi Internatinal airport",
-        "phone":036897620,
+        "phone":"030983720"
     },
     {
         "id":28,
@@ -305,7 +305,7 @@
         "price":2050,
         "image":"https://i.ibb.co/Vv4xzjs/Avani_Deira_Dubai_Hotel.webp",
         "address":"Deira|7.4 km from Duabi Internatinal airport",
-        "phone":037684620,
+        "phone":"033928320"
     },
     {
         "id":29,
@@ -316,7 +316,7 @@
         "price":2030,
         "image":"https://i.ibb.co/7XHrT6B/Jacob_garden_hotel.webp",
         "address":"Bur Dubai|1.9 km from AI Fahid Historical Neighbourhood",
-        "phone":039876520,
+        "phone":"039837320"
     },
     {
         "id":30,
@@ -327,7 +327,7 @@
         "price":4500,
         "image":"https://i.ibb.co/tbBMK6F/Hyatt_Regency_Dubai.webp",
         "address":"Deira|2.0 km from Dubai Gold Souk",
-        "phone":036658720,
+        "phone":"030844420"
     },
     {
         "id":31,
@@ -338,7 +338,7 @@
         "price":2090,
         "image":"https://i.ibb.co/n3pYWD7/j8_Hotel.webp",
         "address":"Little India| 540 m from mustafa center",
-        "phone":075564620,
+        "phone":"0334773320"
     },
     {
         "id":32,
@@ -349,7 +349,7 @@
         "price":2070,
         "image":"https://i.ibb.co/pdDL2D8/Ramada_By_Wyndham_Singapore_At_Zhongshan_Park(Staycation_Approved).webp",
         "address":"Novena|680 m from Toa Payoh Station",
-        "phone":075564620,
+        "phone":"03324320"
     },
     {
         "id":33,
@@ -360,7 +360,7 @@
         "price":1900,
         "image":"https://i.ibb.co/5sP9mmv/Naumi_Hotel.webp",
         "address":"Downtown |2,4 km from Mustafa center",
-        "phone":0364956620,
+        "phone":"0364956620"
     },
     {
         "id":34,
@@ -371,7 +371,7 @@
         "price":3329,
         "image":"https://i.ibb.co/6RnjTNt/Hotel_81_Dickson_Singapore.webp",
         "address":"Little India | 1.7 km from Mustafa center",
-        "phone":0456856460,
+        "phone":"0456856460"
     },
     {
         "id":35,
@@ -382,7 +382,7 @@
         "price":2233,
         "image":"https://i.ibb.co/tBkk20r/One_Farrar_Hotel.webp",
         "address":"Farrer Park| 530 m from Mustafa Center",
-        "phone":0364596620,
+        "phone":"0364596620"
     },
     {
         "id":36,
@@ -393,7 +393,7 @@
         "price":1290,
         "image":"https://i.ibb.co/5MwDd7M/Hyatt_Ahemdabad.webp",
         "address":"Vastrapur| 60 m from Ahemdabad One Mail",
-        "phone":0367564987,
+        "phone":"0367564987"
     },
     {
         "id":37,
@@ -404,7 +404,7 @@
         "price":3000,
         "image":"https://i.ibb.co/d7Hp2XL/Radisson_Blu_Hotel_Ahemdabad.webp",
         "address":"Ellisbridge",
-        "phone":0368766920,
+        "phone":"0368766920"
     },
     {
         "id":38,
@@ -415,7 +415,7 @@
         "price":1204,
         "image":"https://i.ibb.co/CVtkDTZ/Hotel_Accolade.webp",
         "address":"Near Nehru Bridge| 350 m from Ellis Bridge",
-        "phone":0367564620,
+        "phone":"0367564620"
     },
     {
         "id":39,
@@ -426,7 +426,7 @@
         "price":2406,
         "image":"https://i.ibb.co/k3dBWLv/Hotel_Silver_cloud.webp",
         "address":"Old Wadaj| 7.9 km from Sardar vallabhbhai Patel Internatinal Airport", 
-        "phone":0342325566,
+        "phone":"0342325566"
     },
     {
         "id":40,
@@ -437,7 +437,7 @@
         "price":2899,
         "image":"https://i.ibb.co/hFD1RHb/Novotel_Ahmedabad.webp",
         "address":"Sarkhej Gandhinagar highway| 940 m from Shally Multi-Specially Hosiptal",
-        "phone":0367789876,
+        "phone":"0367789876"
     },
     {
         "id":41,
@@ -448,7 +448,7 @@
         "price":850,
         "image":"https://i.ibb.co/9b65wRJ/Chithra_hotel.webp",
         "address":"Main Road",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":42,
@@ -459,7 +459,7 @@
         "price":1050,
         "image":"https://i.ibb.co/W2szNKx/Hotel_Ocean_Heritage.webp",
         "address":"Main Road",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":43,
@@ -470,7 +470,7 @@
         "price":1000,
         "image":"https://i.ibb.co/NsyZPvP/Hotel_Jebasakthy.webp",
         "address":"Main Road",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":44,
@@ -481,7 +481,7 @@
         "price":1122,
         "image":"https://i.ibb.co/BwYmNBf/Hotel_Sangam.webp",
         "address":"Main Road",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":45,
@@ -492,7 +492,7 @@
         "price":806,
         "image":"https://i.ibb.co/QN6bgYr/New_Cape_Hotel.webp",
         "address":"Road|790 m from kanniyakumari Railway station",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":46,
@@ -503,7 +503,7 @@
         "price":1433,
         "image":"https://i.ibb.co/RP3T9kY/Hotel_Taj_Bahadur.webp",
         "address":"Belsar|9.2 km from Gaya Airport(GAY)",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":47,
@@ -514,7 +514,7 @@
         "price":2498,
         "image":"https://i.ibb.co/SKM35ms/Hotel_Anand_International.webp",
         "address":"Beslar|9.8 km from Gaya Airport(GAY)",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":48,
@@ -525,7 +525,7 @@
         "price":1857,
         "image":"https://i.ibb.co/XSSz36w/Maya_Heritage.webp",
         "address":"Mastipur|19 km from Wat Thai Buddhgaya",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":49,
@@ -536,7 +536,7 @@
         "price":2324,
         "image":"https://i.ibb.co/QvpBLDc/oaks_bodhgaya.webp",
         "address":"Kolhapur|3.1 km from city center 7.0 km from Gaya Airport(GAY)",
-        "phone":0369876620,
+        "phone":"0369876620"
     },
     {
         "id":50,
@@ -547,6 +547,6 @@
         "price":2954,
         "image":"https://i.ibb.co/0tLMDdj/Maha_Bodhi_Hotel_Resort_&_Convention_Center.webp",
         "address":"Harihapur|2.7 km from city center 6.2 km from Gaya Airport(GAY)",
-        "phone":0369876620,
-    },
+        "phone":"0369876620"
+    }
 ]
