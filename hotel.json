@@ -24,17 +24,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":2,
@@ -61,17 +61,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":3,
@@ -98,17 +98,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":4,
@@ -135,17 +135,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":5,
@@ -172,17 +172,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":6,
@@ -209,17 +209,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":7,
@@ -246,17 +246,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":8,
@@ -283,17 +283,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":9,
@@ -320,17 +320,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":10,
@@ -356,18 +356,18 @@
                 "name":"Budget Room"
             }
 
-    ]  ,
-"tripType":[
-        {
-            "trip":"1",
-            "name": "Business"
-        },
-        {
-            "trip":"2",
-            "name": "Holiday"
-        }
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-    ]
+            ]
     },
     {
         "id":11,
@@ -394,17 +394,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":12,
@@ -431,17 +431,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":13,
@@ -468,17 +468,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":14,
@@ -505,17 +505,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":15,
@@ -542,17 +542,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":16,
@@ -579,17 +579,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":17,
@@ -615,15 +615,15 @@
                 "name": "Premiere Rooms"
             }
 
-        ]  ,
-    "tripType":[
+        ],
+        "tripType":[
             {
-                "trip":"4",
-                "name": "Luxury"
+                "trip":"1",
+                "name": "Business"
             },
             {
-                "trip":"3",
-                "name": "Travel"
+                "trip":"2",
+                "name": "Holiday"
             }
 
         ]
@@ -653,17 +653,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":19,
@@ -690,17 +690,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":20,
@@ -764,17 +764,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
-        ]
+            ]
     },
     {
         "id":22,
@@ -801,17 +801,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"1",
-                "name": "Business"
-            },
-            {
-                "trip":"2",
-                "name": "Holiday"
-            }
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
 
-        ]
+            ]
     },
     {
         "id":23,
@@ -838,17 +838,17 @@
             }
 
     ]  ,
-"tripType":[
-        {
-            "trip":"1",
-            "name": "Business"
-        },
-        {
-            "trip":"2",
-            "name": "Holiday"
-        }
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
 
-    ]
+        ]
     },
     {
         "id":24,
@@ -875,17 +875,17 @@
             }
 
         ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Business"
+                }
 
-        ]
+            ]
     },
     {
         "id":25,
@@ -911,16 +911,16 @@
                 "name": "Premiere Rooms"
             }
 
-        ]  ,
-    "tripType":[
-            {
-                "trip":"4",
-                "name": "Luxury"
-            },
-            {
-                "trip":"3",
-                "name": "Travel"
-            }
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
 
         ]
     },
@@ -933,7 +933,33 @@
         "price":2000,
         "image":"https://i.ibb.co/n7VfPBF/Movenpick_Hotel_&_Apartments_Bur_Dubai.webp",
         "address":"Bur Dubai| 240 m from Lancy Plazza",
-        "phone":"038360320"
+        "phone":"038360320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Delux Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Business"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":27,
@@ -944,7 +970,33 @@
         "price":1640,
         "image":"https://i.ibb.co/1G27NBb/Royal_Continental_hotel.webp",
         "address":"Deira|7.3 km from Duabi Internatinal airport",
-        "phone":"030983720"
+        "phone":"030983720",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":28,
@@ -955,7 +1007,33 @@
         "price":2050,
         "image":"https://i.ibb.co/Vv4xzjs/Avani_Deira_Dubai_Hotel.webp",
         "address":"Deira|7.4 km from Duabi Internatinal airport",
-        "phone":"033928320"
+        "phone":"033928320",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"1",
+                    "name": "Holiday"
+                }
+
+        ]
     },
     {
         "id":29,
@@ -966,7 +1044,33 @@
         "price":2030,
         "image":"https://i.ibb.co/7XHrT6B/Jacob_garden_hotel.webp",
         "address":"Bur Dubai|1.9 km from AI Fahid Historical Neighbourhood",
-        "phone":"039837320"
+        "phone":"039837320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"1",
+                    "name": "Business"
+                }
+
+        ]
     },
     {
         "id":30,
@@ -977,7 +1081,33 @@
         "price":4500,
         "image":"https://i.ibb.co/tbBMK6F/Hyatt_Regency_Dubai.webp",
         "address":"Deira|2.0 km from Dubai Gold Souk",
-        "phone":"030844420"
+        "phone":"030844420",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":31,
@@ -988,7 +1118,33 @@
         "price":2090,
         "image":"https://i.ibb.co/n3pYWD7/j8_Hotel.webp",
         "address":"Little India| 540 m from mustafa center",
-        "phone":"0334773320"
+        "phone":"0334773320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluse Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":32,
@@ -999,7 +1155,33 @@
         "price":2070,
         "image":"https://i.ibb.co/pdDL2D8/Ramada_By_Wyndham_Singapore_At_Zhongshan_Park(Staycation_Approved).webp",
         "address":"Novena|680 m from Toa Payoh Station",
-        "phone":"03324320"
+        "phone":"03324320",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":33,
@@ -1010,7 +1192,33 @@
         "price":1900,
         "image":"https://i.ibb.co/5sP9mmv/Naumi_Hotel.webp",
         "address":"Downtown |2,4 km from Mustafa center",
-        "phone":"0364956620"
+        "phone":"0364956620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"2",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":34,
@@ -1021,7 +1229,33 @@
         "price":3329,
         "image":"https://i.ibb.co/6RnjTNt/Hotel_81_Dickson_Singapore.webp",
         "address":"Little India | 1.7 km from Mustafa center",
-        "phone":"0456856460"
+        "phone":"0456856460",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Holiday"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":35,
@@ -1032,7 +1266,33 @@
         "price":2233,
         "image":"https://i.ibb.co/tBkk20r/One_Farrar_Hotel.webp",
         "address":"Farrer Park| 530 m from Mustafa Center",
-        "phone":"0364596620"
+        "phone":"0364596620",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"1",
+                    "name": "Business"
+                }
+
+        ]
     },
     {
         "id":36,
@@ -1043,7 +1303,33 @@
         "price":1290,
         "image":"https://i.ibb.co/5MwDd7M/Hyatt_Ahemdabad.webp",
         "address":"Vastrapur| 60 m from Ahemdabad One Mail",
-        "phone":"0367564987"
+        "phone":"0367564987",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":37,
@@ -1054,7 +1340,33 @@
         "price":3000,
         "image":"https://i.ibb.co/d7Hp2XL/Radisson_Blu_Hotel_Ahemdabad.webp",
         "address":"Ellisbridge",
-        "phone":"0368766920"
+        "phone":"0368766920",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":38,
@@ -1065,7 +1377,33 @@
         "price":1204,
         "image":"https://i.ibb.co/CVtkDTZ/Hotel_Accolade.webp",
         "address":"Near Nehru Bridge| 350 m from Ellis Bridge",
-        "phone":"0367564620"
+        "phone":"0367564620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"1",
+                    "name": "Business"
+                }
+
+        ]
     },
     {
         "id":39,
@@ -1076,7 +1414,33 @@
         "price":2406,
         "image":"https://i.ibb.co/k3dBWLv/Hotel_Silver_cloud.webp",
         "address":"Old Wadaj| 7.9 km from Sardar vallabhbhai Patel Internatinal Airport", 
-        "phone":"0342325566"
+        "phone":"0342325566",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"4",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":40,
@@ -1087,7 +1451,33 @@
         "price":2899,
         "image":"https://i.ibb.co/hFD1RHb/Novotel_Ahmedabad.webp",
         "address":"Sarkhej Gandhinagar highway| 940 m from Shally Multi-Specially Hosiptal",
-        "phone":"0367789876"
+        "phone":"0367789876",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Holiday"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":41,
@@ -1098,7 +1488,33 @@
         "price":850,
         "image":"https://i.ibb.co/9b65wRJ/Chithra_hotel.webp",
         "address":"Main Road",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"1",
+                    "name": "Business"
+                }
+
+        ]
     },
     {
         "id":42,
@@ -1109,7 +1525,33 @@
         "price":1050,
         "image":"https://i.ibb.co/W2szNKx/Hotel_Ocean_Heritage.webp",
         "address":"Main Road",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":43,
@@ -1120,7 +1562,33 @@
         "price":1000,
         "image":"https://i.ibb.co/NsyZPvP/Hotel_Jebasakthy.webp",
         "address":"Main Road",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":44,
@@ -1131,7 +1599,33 @@
         "price":1122,
         "image":"https://i.ibb.co/BwYmNBf/Hotel_Sangam.webp",
         "address":"Main Road",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"2",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Holiday"
+                }
+
+        ]
     },
     {
         "id":45,
@@ -1142,7 +1636,33 @@
         "price":806,
         "image":"https://i.ibb.co/QN6bgYr/New_Cape_Hotel.webp",
         "address":"Road|790 m from kanniyakumari Railway station",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"1",
+                    "name": "Business"
+                }
+
+        ]
     },
     {
         "id":46,
@@ -1153,7 +1673,33 @@
         "price":1433,
         "image":"https://i.ibb.co/RP3T9kY/Hotel_Taj_Bahadur.webp",
         "address":"Belsar|9.2 km from Gaya Airport(GAY)",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"1",
+                    "name": "Business"
+                }
+
+        ]
     },
     {
         "id":47,
@@ -1164,7 +1710,33 @@
         "price":2498,
         "image":"https://i.ibb.co/SKM35ms/Hotel_Anand_International.webp",
         "address":"Beslar|9.8 km from Gaya Airport(GAY)",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":48,
@@ -1175,7 +1747,33 @@
         "price":1857,
         "image":"https://i.ibb.co/XSSz36w/Maya_Heritage.webp",
         "address":"Mastipur|19 km from Wat Thai Buddhgaya",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     },
     {
         "id":49,
@@ -1186,7 +1784,33 @@
         "price":2324,
         "image":"https://i.ibb.co/QvpBLDc/oaks_bodhgaya.webp",
         "address":"Kolhapur|3.1 km from city center 7.0 km from Gaya Airport(GAY)",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"1",
+                "name": "Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"1",
+                    "name": "Business"
+                }
+
+        ]
     },
     {
         "id":50,
@@ -1197,6 +1821,32 @@
         "price":2954,
         "image":"https://i.ibb.co/0tLMDdj/Maha_Bodhi_Hotel_Resort_&_Convention_Center.webp",
         "address":"Harihapur|2.7 km from city center 6.2 km from Gaya Airport(GAY)",
-        "phone":"0369876620"
+        "phone":"0369876620",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ],
+        "tripType":[
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+        ]
     }
 ]
