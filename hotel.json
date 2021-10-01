@@ -8,7 +8,33 @@
         "price":2930,
         "image":"https://i.ibb.co/71pPxp8/Welcome_Hotel_By_TC_Hotels.webp",
         "address":"Richmond Road,(1.6 km from Bridge Road) ",
-        "phone":"0343981781"
+        "phone":"0343981781",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":2,
@@ -19,7 +45,33 @@
         "price":5986,
         "image":"https://i.ibb.co/dDGRBdM/ITC_Gardenia_A_Luxury_Collection_Hotel.webp",
         "address":"Ashok Nagar,(3.8 km from Kempegowda Bus Station",
-        "phone":"033920320"
+        "phone":"033920320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":3,
@@ -30,7 +82,33 @@
         "price":986,
         "image":"https://i.ibb.co/Nm6y2T3/The_Zinc_by_the_Fern_Whitefield_Bengalure.webp",
         "address":" Whitefield, Bengalur",
-        "phone":"0339201922"
+        "phone":"0339201922",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":4,
@@ -41,7 +119,33 @@
         "price":7250,
         "image":"https://i.ibb.co/NnFMN42/Leela_Palace_Bangolre.webp",
         "address":"HAL old airport road, 600 m from Leela Palace Bus Stop",
-        "phone":"033923094"
+        "phone":"033923094",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":5,
@@ -52,7 +156,33 @@
         "price":2820,
         "image":"https://i.ibb.co/T8NchNc/Radission_Blu_Atria_Bangaluru.webp",
         "address":"Palace road, 2.2 km from Kemegowda Bus station",
-        "phone":"036758320"
+        "phone":"036758320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":6,
@@ -63,7 +193,33 @@
         "price":4990,
         "image":"https://i.ibb.co/Kb3hHM7/Beleza_by_the_beech.webp",
         "address":"Betalbati Beach",
-        "phone":"033340980"
+        "phone":"033340980",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":7,
@@ -74,7 +230,33 @@
         "price":12200,
         "image":"https://i.ibb.co/3CbRpCS/Taj_Exotica_Resort_&_Spa_Salcete_Goa.webp",
         "address":"Benaulim",
-        "phone":"0987340320"
+        "phone":"0987340320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":8,
@@ -85,7 +267,33 @@
         "price":4500,
         "image":"https://i.ibb.co/n1rHqMr/Vivanta_Goa_panaji.webp",
         "address":"panjim",
-        "phone":"033876520"
+        "phone":"033876520",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":9,
@@ -96,7 +304,33 @@
         "price":8500,
         "image":"https://i.ibb.co/hRf4dpP/Taj_Fort_Aguada_Resort_&_spa_candolim.webp",
         "address":"Candolim , 240 m from Sinquerium Beach",
-        "phone":"033756420"
+        "phone":"033756420",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":10,
@@ -107,7 +341,33 @@
         "price":10250,
         "image":"https://i.ibb.co/VQP0KNw/Grand_Hyatt_Goa.webp",
         "address":"North Goa , 22.2 km from Goa Airport",
-        "phone":"033939840"
+        "phone":"033939840",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+    ]  ,
+"tripType":[
+        {
+            "trip":"1",
+            "name": "Business"
+        },
+        {
+            "trip":"2",
+            "name": "Holiday"
+        }
+
+    ]
     },
     {
         "id":11,
@@ -118,7 +378,33 @@
         "price":3999,
         "image":"https://i.ibb.co/F0QXQyb/Novotel_Lucknow_Gomti_Nagar.webp",
         "address":"Gomti Nagar| 670 m from Sahara Hospital",
-        "phone":"032393320"
+        "phone":"032393320",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":12,
@@ -129,7 +415,33 @@
         "price":5786,
         "image":"https://i.ibb.co/10hRCqH/Hyatt_Regency_Lucknow.webp",
         "address":"Gomti Nagar|670 m from Lohia Hospital",
-        "phone":"033234320"
+        "phone":"033234320",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":13,
@@ -140,7 +452,33 @@
         "price":2088,
         "image":"https://i.ibb.co/5RN3fp9/Taj_Mahal_Lucknow.webp",
         "address":"Gomti Nagar",
-        "phone":"035423320"
+        "phone":"035423320",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":14,
@@ -151,7 +489,33 @@
         "price":1690,
         "image":"https://i.ibb.co/5GgMtmN/The_Piccadily.webp",
         "address":"LDA Colony|2.8 km from ISBT",
-        "phone":"033934560"
+        "phone":"033934560",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":15,
@@ -162,7 +526,33 @@
         "price":2456,
         "image":"https://i.ibb.co/nDB8rSX/Hotel_D'corbiz.webp",
         "address":"Gomti Nagar| 77 m from Dr.Ram Manohar Lohia Combined Hospital",
-        "phone":"033945630"
+        "phone":"033945630",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":16,
@@ -173,7 +563,33 @@
         "price":2786,
         "image":"https://i.ibb.co/V9b02G3/Hotel_Highland.webp",
         "address":"Log Hots Area | 300 m from Hotel river bank & restaurant",
-        "phone":"033234220"
+        "phone":"033234220",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":17,
@@ -184,7 +600,33 @@
         "price":1000,
         "image":"https://i.ibb.co/thDMcPT/OYO_27602_Hotel_Green_View.webp",
         "address":"Siyal | 1.3 km from Manali mali Market",
-        "phone":"033098720"
+        "phone":"033098720",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":18,
@@ -195,7 +637,33 @@
         "price":1297,
         "image":"https://i.ibb.co/g4g5zdG/Hotel_himgiri.webp",
         "address":"Near Mall Road|990 m from Manali Bus Stop",
-        "phone":"030987320"
+        "phone":"030987320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":19,
@@ -206,7 +674,33 @@
         "price":9086,
         "image":"https://i.ibb.co/TKRDFZk/Snow_Flakes_Resorts_&_Spa.webp",
         "address":"Snow | 5.9 km from city center 4.8 km from Manail Mall Market",
-        "phone":"094872320"
+        "phone":"094872320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":20,
@@ -217,7 +711,33 @@
         "price":8096,
         "image":"https://i.ibb.co/NjsMxRQ/The_Tranquill_Inn.webp",
         "address":"Shnag Road | 4.3 km from city center 3.8 km from Manail Mall Market",
-        "phone":"030900320"
+        "phone":"030900320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
     },
     {
         "id":21,
@@ -228,7 +748,33 @@
         "price":4080,
         "image":"https://i.ibb.co/56rxZGw/Holiday_Inn_Jaipur_City_Center.webp",
         "address":"Shivaji Nagar|650 m from jyoti Nagar Bus Stop",
-        "phone":"037893720"
+        "phone":"037893720",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":22,
@@ -239,7 +785,33 @@
         "price":4080,
         "image":"https://i.ibb.co/mD9XGgZ/ITC_Rajputana_A_Luxury_Collection_Hotel.jpg",
         "address":"Neaf Jaipur Train Station| 530 m from jaipur Railway station",
-        "phone":"034567320"
+        "phone":"034567320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"1",
+                "name": "Business"
+            },
+            {
+                "trip":"2",
+                "name": "Holiday"
+            }
+
+        ]
     },
     {
         "id":23,
@@ -250,7 +822,33 @@
         "price":4000,
         "image":"https://i.ibb.co/3MBwtRv/Trident_Jaipur.jpg",
         "address":"Parasarampuri| 67 m from Jai Mahal Bus Stop",
-        "phone":"039360320"
+        "phone":"039360320",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+    ]  ,
+"tripType":[
+        {
+            "trip":"1",
+            "name": "Business"
+        },
+        {
+            "trip":"2",
+            "name": "Holiday"
+        }
+
+    ]
     },
     {
         "id":24,
@@ -261,7 +859,33 @@
         "price":3000,
         "image":"https://i.ibb.co/HzMX9RX/Radission_Jaipur_City_Center.jpg",
         "address":"Gopabari|740 km from Jaipur Railway Station",
-        "phone":"039643220"
+        "phone":"039643220",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":25,
@@ -272,7 +896,33 @@
         "price":2400,
         "image":"https://i.ibb.co/WphbF2M/Hotel_Royal_Orchid_Jaipur.jpg",
         "address":"Tonk road|840 km from Bus stop Durgapura",
-        "phone":"038735320"
+        "phone":"038735320",
+        "type":[
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            },
+            {
+                "roomtype":"4",
+                "name": "Semi Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            }
+
+        ]  ,
+    "tripType":[
+            {
+                "trip":"4",
+                "name": "Luxury"
+            },
+            {
+                "trip":"3",
+                "name": "Travel"
+            }
+
+        ]
     },
     {
         "id":26,
