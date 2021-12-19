@@ -1,22 +1,26 @@
 [
     {
-        "_id":1,
+        "roomtype_id":1,
         "roomtype":"1",
-        "name":"Deluxe Room"
+        "name":"Deluxe Room",
+        "room_image":"https://i.ibb.co/71pPxp8/Welcome_Hotel_By_TC_Hotels.webp"
     },
     {
-        "_id":2,
+        "roomtype_id":2,
         "roomtype":"2",
-        "name": "Premiere Rooms"
+        "name": "Premiere Rooms",
+        "room_image":"https://i.ibb.co/F0QXQyb/Novotel_Lucknow_Gomti_Nagar.webp"
     },
     {
-        "_id":3,
+        "roomtype_id":3,
         "roomtype":"3",
-        "name":"Travel"
+        "name":"Travel",
+        "room_image":"https://i.ibb.co/V9b02G3/Hotel_Highland.webp"
     },
     {
-        "_id":4,
+        "roomtype_id":4,
         "roomtype":"4",
-        "name":"Semi Deluxe Room"
+        "name":"Semi Deluxe Room",
+        "room_image":"https://i.ibb.co/g4g5zdG/Hotel_himgiri.webp"
     }
 ]

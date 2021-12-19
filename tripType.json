@@ -1,22 +1,68 @@
 [
     {
         "triptype_id":1,
-        "trip":"1",
-        "name": "Business"
+        "name": "Adeventures Places",
+        "image":"https://i.ibb.co/C6RBMCy/Adventures-Places.jpg",
+        "about":"Explore adventures destinations with exciting deals and challenging activities. Spike up your adrenaline and boost your confidence with thrilling treks, camping, water sports, scuba diving, rafting, bungee jumping, sky diving and many more off-beat ativities."
     },
     {
         "triptype_id":2,
-        "trip":"2",
-        "name": "Holiday"
+        "name": "Beach Places",
+        "image":"https://i.ibb.co/wRv4sXB/beach-places.jpg",
+        "about":"Imagine strolling on a pristine beach and relishing incredible seafood without a worry in the world! Does that sound like your dream vacation? Plan a holiday to beach destination and enjoy adrenalin pumping sports activities with your loved ones."
     },
     {
         "triptype_id":3,
-        "trip":"3",
-        "name": "Travel"
+        "name": "International Places",
+        "image":"https://i.ibb.co/yQQ5SWg/Honeymoon-Places.jpg",
+        "about":"Want to learn more about new cultres and new countries? Then this is for the globtrotter in you! Make your next trip truly memorable with these specially curated ideas and feast your senses on jaw-dropping international landscape and mouthwatering food."
     },
     {
         "triptype_id":4,
-        "trip":"4",
-        "name": "Luxury"
+        "name": "Romantic Places",
+        "image":"https://i.ibb.co/n0qMmx2/Romantic-Places.jpg",
+        "about":"Scroll through our list of romantic tourist destinations and plan a passionate getaway with your special someone to surreal valleys, snow-clad mountains, sun-soaked beaches or adventures wildlife trails. Feel the vibe with love and  your special one and increase your memory bank."
+    },
+    {
+        "triptype_id":5,
+        "name": "Hill Station",
+        "image":"https://i.ibb.co/Z23cfYz/Hill-Station.jpg",
+        "about":"Answer the call of the mountains with CherishYourJourney's specially curated holiday ideas. Treat the nature lover in you to the serence bliss of lofty hills and explore hidden gems on an epic adenture. Experience every new thing that you can."
+    },
+    {
+        "triptype_id":6,
+        "name": "Holy Places",
+        "image":"https://i.ibb.co/kD8bKdY/Holy-Places.jpg",
+        "about":"Take a break from your busy routine and seek divine blessings at revered pilgrimages for some much needed peace. Whisper a wish and let your next trip be a truly memorable one!. Learn a lot of about your religion."
+    },
+    {
+        "triptype_id":7,
+        "name": "Restaurant Places",
+        "image":"https://i.ibb.co/D8GtTcw/Restaurants.jpg",
+        "about":"Pamper your taste buds with flavours of different regions. Go on adventures to experience a truly authentic culinary journey. Explore the tiniest of lanes & largest of markets on your next food trail. Take a look for new taste with excitement."
+    },
+    {
+        "triptype_id":8,
+        "name": "Trekking Places",
+        "image":"https://i.ibb.co/BN8mSQ4/Trekking-Places.jpg",
+        "about":"Replace the boredom of your daily routine with an epic adventure. Be it soaring in the sky or diving in the sea, explore the best ideas for a thrilling trip. It's time to feel the adrenaline racing through your venis! So loe your journey with us."
+    },
+    {
+        "triptype_id":9,
+        "name": "Honeymoon Places",
+        "image":"https://i.ibb.co/zJ8XhrS/Honeymoon-Places.jpg",
+        "about":"Your honeymoon has to be the most memorable vacation of your life! Choose from a variety of pocket friendly destinations form solitary beaches, pictureesque hills,z relaxing yet exotic resorts to adventurous excursions."
+    },
+    {
+        "triptype_id":10,
+        "name": "Peaceful Places",
+        "image":"https://i.ibb.co/PcKHnK9/Peaceful-Places.jpg",
+        "about":"Escape the daily and humdrum of city life with a relaxing trip to a serene destination, Rejuvenate your body and mind with therapeutic spa treatments, soothing beach walks, flavouful drinks, scrumptious meals and morning notifications."
+    },
+    {
+        "triptype_id":11,
+        "name": "Weekend Gateway",
+        "image":"https://i.ibb.co/QJDtbzR/Weekend-Gateway.jpg",
+        "about":"Recharge after a hectic week's work with an idyllic trip over the weekend. Experience peace at a resort nestled in nature's lap or feel your heart race with adventure sports. Go ahead, choose the perfect weekend hotspot from this list."
     }
 ]

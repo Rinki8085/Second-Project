@@ -1,4 +1,4 @@
-[
+db.hotel.insertMany([
     {
         "id":1,
         "name":"Welcome hotel by ITC Hotels",
@@ -17,12 +17,7 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "room_typeId":"2",
-                "name": "Premiere Rooms"
             }
-
         ]  ,
         "tripType":[
                 {
@@ -54,21 +49,16 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"3",
+                    "name": "Honeymoon Places"
                 },
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"5",
+                    "name": "Peaceful Places"
                 }
 
             ]
@@ -91,21 +81,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"6",
+                    "name": "Reastaurant Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"9",
+                    "name": "Weekend Gateway"
                 }
 
             ]
@@ -128,21 +113,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"1",
-                "name":"Deluxe Room"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"7",
+                    "name": "Romantic Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"8",
+                    "name": "Trekking Places"
                 }
 
             ]
@@ -165,21 +145,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"10",
+                    "name": "Holy Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"11",
+                    "name": "Adventures Places"
                 }
 
             ]
@@ -202,21 +177,16 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"10",
+                    "name": "Holy Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"11",
+                    "name": "Adventures Places"
                 }
 
             ]
@@ -239,21 +209,16 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"4",
-                "name": "Semi Deluxe Room"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"9",
+                    "name": "Weekend Gateway"
                 },
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"8",
+                    "name": "Trekking Places"
                 }
 
             ]
@@ -276,21 +241,16 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"7",
+                    "name": "Romantic Places"
                 },
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"6",
+                    "name": "Restaurant Places"
                 }
 
             ]
@@ -313,21 +273,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"5",
+                    "name": "Peaceful Places"
                 },
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"4",
+                    "name": "International Places"
                 }
 
             ]
@@ -350,21 +305,16 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
-
             ]  ,
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"3",
+                    "name": "Honeymoon Places"
                 },
                 {
                     "triptype_id":"2",
-                    "name": "Holiday"
+                    "name": "Hill Station"
                 }
 
             ]
@@ -387,21 +337,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"1",
+                    "name": "Beach Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"2",
+                    "name": "Hill Station"
                 }
 
             ]
@@ -424,21 +369,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"3",
+                    "name": "Honeymoon Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"4",
+                    "name": "International Places"
                 }
 
             ]
@@ -459,23 +399,18 @@
                 "name":"Budget Room"
             },
             {
-                "roomtype_id":"4",
-                "name": "Semi Deluxe Room"
-            },
-            {
                 "roomtype_id":"2",
-                "name": "Premiere Rooms"
+                "name": "Semi Deluxe Room"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"5",
+                    "name": "Peaceful Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"6",
+                    "name": "Restaurant Places"
                 }
 
             ]
@@ -498,21 +433,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"6",
+                    "name": "Restaurant Places"
                 },
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"7",
+                    "name": "Romantic Places"
                 }
 
             ]
@@ -535,21 +465,16 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
-
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"8",
+                    "name": "Trekking Places"
                 },
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"9",
+                    "name": "Weekend Places"
                 }
 
             ]
@@ -572,21 +497,16 @@
             {
                 "roomtype_id":"3",
                 "name":"Budget Room"
-            },
-            {
-                "roomtype_id":"4",
-                "name": "Semi Deluxe Room"
             }
-
-        ]  ,
+        ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"10",
+                    "name": "Holy Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"11",
+                    "name": "Adventures Places"
                 }
 
             ]
@@ -609,22 +529,19 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
             {
-                "triptype_id":"1",
-                "name": "Business"
+                "triptype_id":"6",
+                "name": "Restaurant Places"
             },
             {
-                "triptype_id":"2",
-                "name": "Holiday"
+                "triptype_id":"7",
+                "name": "Romantic Places"
             }
+
 
         ]
     },
@@ -646,23 +563,18 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
 
-        ]  ,
-        "tripType":[
-                {
-                    "triptype_id":"1",
-                    "name": "Business"
-                },
-                {
-                    "triptype_id":"2",
-                    "name": "Holiday"
-                }
-
+            ]  ,
+            "tripType":[
+                    {
+                        "triptype_id":"5",
+                        "name": "Peaceful Places"
+                    },
+                    {
+                        "triptype_id":"6",
+                        "name": "Restaurant Places"
+                    }
             ]
     },
     {
@@ -683,24 +595,20 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ]  ,
         "tripType":[
-                {
-                    "triptype_id":"1",
-                    "name": "Business"
-                },
-                {
-                    "triptype_id":"2",
-                    "name": "Holiday"
-                }
+            {
+                "triptype_id":"3",
+                "name": "Honeymoon Places"
+            },
+            {
+                "triptype_id":"4",
+                "name": "International Places"
+            }
 
-            ]
+        ]
     },
     {
         "id":20,
@@ -720,28 +628,24 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
 
             ]  ,
-        "tripType":[
+            "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"1",
+                    "name": "Beach Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"2",
+                    "name": "Hill Station"
                 }
 
             ]
     },
     {
         "id":21,
-        "name":"Holiday Inn JAIPUR CITY CENTER",
+        "name":"Holiday In JAIPUR CITY CENTER",
         "city":"Jaipur",
         "city_id":5,
         "rating":4.5,
@@ -755,23 +659,19 @@
                 "name":"Budget Room"
             },
             {
-                "roomtype_id":"4",
-                "name": "Semi Deluxe Room"
-            },
-            {
                 "roomtype_id":"2",
-                "name": "Premiere Rooms"
+                "name": "Semi Deluxe Room"
             }
 
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"8",
+                    "name": "Trekking Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"7",
+                    "name": "Romantic Places"
                 }
 
             ]
@@ -794,21 +694,17 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
 
         ]  ,
         "tripType":[
                 {
                     "triptype_id":"1",
-                    "name": "Business"
+                    "name": "Beach Places"
                 },
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"4",
+                    "name": "International Places"
                 }
 
             ]
@@ -831,24 +727,20 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
     ]  ,
     "tripType":[
-            {
-                "triptype_id":"1",
-                "name": "Business"
-            },
-            {
-                "triptype_id":"2",
-                "name": "Holiday"
-            }
+        {
+            "triptype_id":"10",
+            "name": "Holy Places"
+        },
+        {
+            "triptype_id":"11",
+            "name": "Adventures Places"
+        }
 
-        ]
+    ]
     },
     {
         "id":24,
@@ -868,21 +760,17 @@
             {
                 "roomtype_id":"2",
                 "name": "Premiere Rooms"
-            },
-            {
-                "roomtype_id":"3",
-                "name":"Budget Room"
             }
 
         ]  ,
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"5",
+                    "name": "Peaceful Plaes"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Business"
+                    "triptype_id":"6",
+                    "name": "Restaurant Places"
                 }
 
             ]
@@ -899,27 +787,23 @@
         "phone":"038735320",
         "roomType":[
             {
-                "roomtype_id":"3",
+                "roomtype_id":"2",
                 "name":"Budget Room"
             },
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"8",
+                    "name": "TRekking Places"
                 },
                 {
                     "triptype_id":"3",
-                    "name": "Travel"
+                    "name": "Honeymoon Places"
                 }
 
         ]
@@ -942,22 +826,18 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"4",
-                    "name": "Business"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"1",
+                "name": "Beach Places"
+            },
+            {
+                "triptype_id":"2",
+                "name": "Hill Station"
+            }
 
         ]
     },
@@ -977,26 +857,22 @@
                 "name":"Budget Room"
             },
             {
-                "roomtype_id":"4",
+                "roomtype_id":"2",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"1",
-                "name": "Deluxe Rooms"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"2",
-                    "name": "Holiday"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"9",
+                "name": "Weekend Gateway"
+            },
+            {
+                "triptype_id":"4",
+                "name": "International Places"
+            }
 
-        ]
+    ]
     },
     {
         "id":28,
@@ -1016,22 +892,18 @@
             {
                 "roomtype_id":"1",
                 "name": "Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"4",
-                    "name": "Luxury"
-                },
-                {
-                    "triptype_id":"1",
-                    "name": "Holiday"
-                }
+            {
+                "triptype_id":"10",
+                "name": "Holy Places"
+            },
+            {
+                "triptype_id":"11",
+                "name": "Adventures Places"
+            }
 
         ]
     },
@@ -1053,21 +925,17 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"10",
+                    "name": "Holy Places"
                 },
                 {
                     "triptype_id":"1",
-                    "name": "Business"
+                    "name": "Beach Places"
                 }
 
         ]
@@ -1088,26 +956,22 @@
                 "name":"Budget Room"
             },
             {
-                "roomtype_id":"4",
+                "roomtype_id":"2",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"1",
-                "name": "Deluxe Rooms"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"4",
-                    "name": "Luxury"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"3",
+                "name": "Honeymoon Places"
+            },
+            {
+                "triptype_id":"4",
+                "name": "International Places"
+            }
 
-        ]
+    ]
     },
     {
         "id":31,
@@ -1127,21 +991,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ],
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"7",
+                    "name": "Romantic Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"8",
+                    "name": "Trekking Places"
                 }
 
         ]
@@ -1158,27 +1017,22 @@
         "phone":"03324320",
         "roomType":[
             {
-                "roomtype_id":"3",
+                "roomtype_id":"2",
                 "name":"Budget Room"
             },
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"5",
+                    "name": "Peaceful Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"8",
+                    "name": "Trekking Places"
                 }
 
         ]
@@ -1201,22 +1055,17 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"1",
-                "name": "Deluxe Rooms"
             }
-
         ],
         "tripType":[
-                {
-                    "triptype_id":"2",
-                    "name": "Luxury"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"1",
+                "name": "Beach Places"
+            },
+            {
+                "triptype_id":"2",
+                "name": "Hill Station"
+            }
 
         ]
     },
@@ -1238,24 +1087,20 @@
             {
                 "roomtype_id":"1",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"4",
-                    "name": "Holiday"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"3",
+                "name": "Honeymoon Places"
+            },
+            {
+                "triptype_id":"4",
+                "name": "International Places"
+            }
 
-        ]
+    ]
     },
     {
         "id":35,
@@ -1269,28 +1114,23 @@
         "phone":"0364596620",
         "roomType":[
             {
-                "roomtype_id":"1",
+                "roomtype_id":"2",
                 "name":"Budget Room"
             },
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ],
         "tripType":[
-                {
-                    "triptype_id":"4",
-                    "name": "Luxury"
-                },
-                {
-                    "triptype_id":"1",
-                    "name": "Business"
-                }
+            {
+                "triptype_id":"10",
+                "name": "Holy Places"
+            },
+            {
+                "triptype_id":"11",
+                "name": "Adventures Places"
+            }
 
         ]
     },
@@ -1306,27 +1146,23 @@
         "phone":"0367564987",
         "roomType":[
             {
-                "roomtype_id":"3",
+                "roomtype_id":"2",
                 "name":"Budget Room"
             },
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
                 {
                     "triptype_id":"4",
-                    "name": "Luxury"
+                    "name": "International Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"8",
+                    "name": "Trekking Places"
                 }
 
         ]
@@ -1347,23 +1183,19 @@
                 "name":"Budget Room"
             },
             {
-                "roomtype_id":"4",
+                "roomtype_id":"2",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"1",
-                "name": "Deluxe Rooms"
             }
 
         ],
         "tripType":[
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"10",
+                    "name": "Holy Places"
                 },
                 {
                     "triptype_id":"3",
-                    "name": "Travel"
+                    "name": "Honeymoon Places"
                 }
 
         ]
@@ -1386,21 +1218,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"1",
-                "name": "Premiere Rooms"
             }
-
         ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"7",
+                    "name": "Romantic Places"
                 },
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"2",
+                    "name": "Hill station"
                 }
 
         ]
@@ -1423,24 +1250,20 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"1",
-                    "name": "Business"
-                },
-                {
-                    "triptype_id":"4",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"3",
+                "name": "Honeymoon Places"
+            },
+            {
+                "triptype_id":"4",
+                "name": "International Places"
+            }
 
-        ]
+    ]
     },
     {
         "id":40,
@@ -1460,24 +1283,20 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"1",
-                    "name": "Holiday"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"1",
+                "name": "Beach Places"
+            },
+            {
+                "triptype_id":"3",
+                "name": "Romantic Places"
+            }
 
-        ]
+    ]
     },
     {
         "id":41,
@@ -1497,21 +1316,16 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
-
         ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"9",
+                    "name": "Weekend Gateway"
                 },
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"8",
+                    "name": "Trekking Places"
                 }
 
         ]
@@ -1534,21 +1348,17 @@
             {
                 "roomtype_id":"1",
                 "name": "Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"5",
+                    "name": "Peaceful PLaes"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"6",
+                    "name": "Restaurant Places"
                 }
 
         ]
@@ -1571,24 +1381,20 @@
             {
                 "roomtype_id":"1",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"4",
-                    "name": "Luxury"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"3",
+                "name": "Honeymoon Places"
+            },
+            {
+                "triptype_id":"4",
+                "name": "International Places"
+            }
 
-        ]
+    ]
     },
     {
         "id":44,
@@ -1606,24 +1412,20 @@
                 "name":"Budget Room"
             },
             {
-                "roomtype_id":"4",
-                "name": "Semi Deluxe Room"
-            },
-            {
                 "roomtype_id":"2",
-                "name": "Premiere Rooms"
+                "name": "Semi Deluxe Room"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"2",
-                    "name": "Luxury"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Holiday"
-                }
+            {
+                "triptype_id":"10",
+                "name": "Holy Places"
+            },
+            {
+                "triptype_id":"11",
+                "name": "Adventures Places"
+            }
 
         ]
     },
@@ -1645,21 +1447,17 @@
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"1",
-                "name": "Deluxe Rooms"
             }
 
         ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"9",
+                    "name": "Weekend Gateway"
                 },
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"2",
+                    "name": "Hill Station"
                 }
 
         ]
@@ -1682,21 +1480,17 @@
             {
                 "roomtype_id":"1",
                 "name": "Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"7",
+                    "name": "Romantic Places"
                 },
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"8",
+                    "name": "Trekkingn Places"
                 }
 
         ]
@@ -1717,23 +1511,19 @@
                 "name":"Deluxe Room"
             },
             {
-                "roomtype_id":"4",
-                "name": "Semi Deluxe Room"
-            },
-            {
                 "roomtype_id":"2",
-                "name": "Premiere Rooms"
+                "name": "Semi Deluxe Room"
             }
 
         ],
         "tripType":[
                 {
-                    "triptype_id":"2",
-                    "name": "Holiday"
+                    "triptype_id":"5",
+                    "name": "Peaceful Places"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"6",
+                    "name": "Restaurant Places"
                 }
 
         ]
@@ -1750,27 +1540,23 @@
         "phone":"0369876620",
         "roomType":[
             {
-                "roomtype_id":"3",
+                "roomtype_id":"2",
                 "name":"Budget Room"
             },
             {
                 "roomtype_id":"4",
                 "name": "Semi Deluxe Room"
-            },
-            {
-                "roomtype_id":"1",
-                "name": "Deluxe Rooms"
             }
 
         ],
         "tripType":[
                 {
                     "triptype_id":"2",
-                    "name": "Holiday"
+                    "name": "Hill station"
                 },
                 {
-                    "triptype_id":"3",
-                    "name": "Travel"
+                    "triptype_id":"1",
+                    "name": "Beach Places"
                 }
 
         ]
@@ -1787,27 +1573,23 @@
         "phone":"0369876620",
         "roomType":[
             {
-                "roomtype_id":"3",
+                "roomtype_id":"2",
                 "name":"Budget Room"
             },
             {
                 "roomtype_id":"1",
                 "name": "Deluxe Room"
-            },
-            {
-                "roomtype_id":"2",
-                "name": "Premiere Rooms"
             }
 
         ],
         "tripType":[
                 {
-                    "triptype_id":"4",
-                    "name": "Luxury"
+                    "triptype_id":"3",
+                    "name": "Honeymoon Places"
                 },
                 {
-                    "triptype_id":"1",
-                    "name": "Business"
+                    "triptype_id":"4",
+                    "name": "International Places"
                 }
 
         ]
@@ -1828,25 +1610,21 @@
                 "name":"Deluxe Room"
             },
             {
-                "roomtype_id":"4",
-                "name": "Semi Deluxe Room"
-            },
-            {
                 "roomtype_id":"2",
-                "name": "Premiere Rooms"
+                "name": "Semi Deluxe Room"
             }
 
         ],
         "tripType":[
-                {
-                    "triptype_id":"2",
-                    "name": "Holiday"
-                },
-                {
-                    "triptype_id":"3",
-                    "name": "Travel"
-                }
+            {
+                "triptype_id":"10",
+                "name": "Holy Places"
+            },
+            {
+                "triptype_id":"11",
+                "name": "Adventures Places"
+            }
 
         ]
     }
-]
+])
